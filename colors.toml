@@ -5,34 +5,34 @@ mode = "dark"
 # One warm hue family from the cover and walls; slots separate by lightness.
 # green = cover tan, cyan = sunlit road dust, blue = dim dust tan, yellow = window light, magenta = cover maroon.
 
-accent               = "#d87c58"  # rust
+accent               = "#c5693d"  # rust
 selection            = "#52281e"  # wash
 muted                = "#a5856f"  # dust
-background           = "#1b0a09"  # ground
-dark_background      = "#130505"  # deep
-darker_background    = "#0b0202"  # deeper
+background           = "#140605"  # ground
+dark_background      = "#0d0303"  # deep
+darker_background    = "#070101"  # deeper
 lighter_background   = "#291412"  # booth
-foreground           = "#ead7c2"  # paper
+foreground           = "#dbc0a0"  # paper
 dark_foreground      = "#c8b7a5"  # paper_dim
-light_foreground     = "#f7eddf"  # paper_hi
-bright_foreground    = "#f7eddf"  # paper_hi
-selection_foreground = "#f7eddf"  # paper_hi
+light_foreground     = "#dbc0a0"  # paper_hi
+bright_foreground    = "#dbc0a0"  # paper_hi
+selection_foreground = "#dbc0a0"  # paper_hi
 selection_background = "#52281e"  # wash
-red                  = "#c55c44"  # red
-orange               = "#d77e52"  # clay
-yellow               = "#f5b483"  # tan
-green                = "#c3a080"  # straw
-cyan                 = "#e2a078"  # bone
-blue                 = "#a18671"  # slate
-magenta              = "#b56b70"  # mauve
+red                  = "#b8352c"  # red
+orange               = "#f67a3c"  # clay
+yellow               = "#e89d63"  # tan
+green                = "#9e7b5e"  # straw
+cyan                 = "#c98053"  # bone
+blue                 = "#b25530"  # slate
+magenta              = "#a85e3e"  # mauve
 brown                = "#7b4532"  # brown
-bright_red           = "#d57358"  # red_hi
-bright_yellow        = "#fecca4"  # tan_hi
-bright_green         = "#d7b799"  # straw_hi
-bright_cyan          = "#f1ba96"  # bone_hi
-bright_blue          = "#b8a08c"  # slate_hi
-bright_magenta       = "#c17d80"  # mauve_hi
+bright_red           = "#b8352c"  # red_hi
+bright_yellow        = "#e89d63"  # tan_hi
+bright_green         = "#9e7b5e"  # straw_hi
+bright_cyan          = "#c98053"  # bone_hi
+bright_blue          = "#b25530"  # slate_hi
+bright_magenta       = "#a85e3e"  # mauve_hi
 
-# Focus is the painted rust: one solid colour, no gradient.
-hyprland_active_border = "rgb(d87c58)"
+# Focus is the window light in the room: one solid colour that reads on the rust walls.
+hyprland_active_border = "rgb(e89d63)"
 hyprland_inactive_border = "rgba(472a25aa)"  # curtain

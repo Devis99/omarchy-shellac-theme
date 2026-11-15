@@ -1,13 +1,13 @@
 /* Shellac palette for Zen's browser chrome. */
 :root {
-    --thpm-bg: #1b0a09;
+    --thpm-bg: #140605;
     --thpm-surface: #291412;
     --thpm-raised: #52281e;
-    --thpm-fg: #ead7c2;
-    --thpm-bright: #f7eddf;
+    --thpm-fg: #dbc0a0;
+    --thpm-bright: #dbc0a0;
     --thpm-muted: #a5856f;
-    --thpm-accent: #d87c58;
-    --thpm-teal: #e2a078;
+    --thpm-accent: #c5693d;
+    --thpm-teal: #c98053;
 
     --zen-colors-primary: var(--thpm-bg) !important;
     --zen-colors-secondary: var(--thpm-surface) !important;

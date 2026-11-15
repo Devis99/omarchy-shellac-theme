@@ -8,19 +8,21 @@ cover of Robert Johnson's *King of the Delta Blues Singers* (Columbia, 1961).
 - Should not feel: neon, club lights, generic "retro orange".
 
 ## Palette (Crossroads)
-Every colour is measured from the cover or the six walls; text colours are only lifted
-in lightness. One warm hue family, so slots separate by lightness, not hue.
-Slot names are schema labels:
+Every colour is an exact main colour of the cover or the six walls (k-means in OKLab),
+not lifted or invented. Every theme file uses only these colours. One warm hue family,
+so slots separate by lightness, not hue. Slot names are schema labels:
 
-- red: wall rust ground · orange: wall orange highlights · yellow: window light
-- green: cover tan · cyan: sunlit road dust · blue: dim dust tan · magenta: cover maroon
-- background: cover near-black maroon · text: cover paper cream · accent: rust
+- red #b8352c: the red of the record wall, also on the cover · orange #f67a3c: the sun orange of the walls
+- yellow #e89d63: the window light in the room · green #9e7b5e: cover tan brown
+- cyan #c98053: warm wall tan · blue #b25530: wall rust · magenta #a85e3e: cover light rust
+- background #140605: cover maroon shadow, one step darker · text #dbc0a0: cover cream type · accent #c5693d: rust
 
-Trade-off: red/orange/cyan sit close in hue; they differ by lightness, which is weaker
-for colour-blind viewers.
+Trade-off: the slots sit close in hue and differ by lightness, which is weaker for
+colour-blind viewers. Red (3.4:1), blue (4.0:1) and magenta (4.1:1) sit below 4.5:1
+on the ground; the art comes first.
 
 ## Surfaces
-- Active border: one solid rust (no gradient).
+- Active border: one solid window light (the room's sun patch), 4.1:1 against the rust walls; rust stays the accent.
 - Icons: Yaru-red, the closest stock icon set to rust.
 - Bar: Delta dark, paper text, rust for the active workspace.
 - Menu/launcher selection: rust wash with a solid rust edge.

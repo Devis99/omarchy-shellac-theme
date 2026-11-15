@@ -1,25 +1,25 @@
 /* Shellac GTK3/GTK4 palette for THPM. Delta-dark ground, paper text, painted rust as accent,
    selections in a rust wash, keyboard focus as a thin tan line. */
-@define-color background     #1b0a09;
+@define-color background     #140605;
 @define-color surface        #291412;
-@define-color sunken         #130505;
-@define-color foreground     #ead7c2;
-@define-color foreground_hi  #f7eddf;
+@define-color sunken         #0d0303;
+@define-color foreground     #dbc0a0;
+@define-color foreground_hi  #dbc0a0;
 @define-color muted          #a5856f;
 @define-color selection      #52281e;
-@define-color brass          #c79169;
-@define-color red            #c55c44;
-@define-color green          #c3a080;
-@define-color yellow         #f5b483;
-@define-color blue           #a18671;
-@define-color magenta        #d87c58;
-@define-color cyan           #e2a078;
-@define-color bright_red     #d57358;
-@define-color bright_green   #e7936c;
-@define-color bright_yellow  #fecca4;
-@define-color bright_blue    #b8a08c;
-@define-color bright_magenta #e7936c;
-@define-color bright_cyan    #f1ba96;
+@define-color brass          #c98053;
+@define-color red            #b8352c;
+@define-color green          #9e7b5e;
+@define-color yellow         #e89d63;
+@define-color blue           #b25530;
+@define-color magenta        #c5693d;
+@define-color cyan           #c98053;
+@define-color bright_red     #b8352c;
+@define-color bright_green   #f67a3c;
+@define-color bright_yellow  #e89d63;
+@define-color bright_blue    #b25530;
+@define-color bright_magenta #f67a3c;
+@define-color bright_cyan    #c98053;
 
 @define-color accent_bg_color @green;
 @define-color accent_fg_color @background;
