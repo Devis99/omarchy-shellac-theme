@@ -27,7 +27,7 @@ It is a dark, dry theme, late afternoon rather than neon. The window light is th
 
 ## Wallpapers
 
-All wallpapers are 3840x2160, painted with AI (Codex image generation) in a flat gouache style seen from above, colour-matched as a set and upscaled. This is an unofficial tribute; the album cover is not included and belongs to its owners. Scene notes are in `backgrounds/SOURCES.md`.
+All wallpapers are 3840x2160, painted with AI (Codex image generation) in a flat gouache style seen from above, colour-matched as a set and upscaled. The theme is released under the MIT License. This is an unofficial tribute; the album cover is not included and belongs to its owners. Scene notes are in `backgrounds/SOURCES.md`.
 
 <table>
   <tr>
