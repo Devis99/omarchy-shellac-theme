@@ -1,0 +1,9 @@
+# cliamp theme - Shellac
+# Installed by THPM to ~/.config/cliamp/themes/omarchy.toml
+# thpm:cliamp-use-native
+accent = "#d87c58"     # rust: primary interactive
+bright_fg = "#f7eddf"  # paper: primary text and time
+fg = "#a5856f"         # smoke: dim text
+green = "#c3a080"      # straw: playing indicator, spectrum lows
+yellow = "#f5b483"     # tan: spectrum mids, warnings
+red = "#c55c44"        # red: spectrum highs, errors

@@ -1,0 +1,73 @@
+/**
+ * @name Shellac
+ * @description Midnight for Discord in the Shellac colours.
+ * @author Devis99, refact0r (midnight)
+ * @upstream https://github.com/refact0r/midnight-discord
+ */
+
+@import url('https://refact0r.github.io/midnight-discord/build/midnight.css');
+
+:root {
+    --colors: on;
+
+    /* Colored control surfaces below are lifted enough for stable black text. */
+    --text-0: #000000;
+    --text-1: #f7eddf;
+    --text-2: #ead7c2;
+    --text-3: #f7eddf;
+    --text-4: #a5856f;
+    --text-5: #c8b7a5;
+
+    --bg-1: color-mix(in srgb, #1b0a09, #ead7c2 18%);
+    --bg-2: color-mix(in srgb, #1b0a09, #ead7c2 12%);
+    --bg-3: color-mix(in srgb, #1b0a09, #ead7c2 6%);
+    --bg-4: #1b0a09;
+    --hover: color-mix(in srgb, #a5856f 18%, transparent);
+    --active: color-mix(in srgb, #a5856f 28%, transparent);
+    --active-2: color-mix(in srgb, #a5856f 38%, transparent);
+    --message-hover: color-mix(in srgb, #0b0202 55%, transparent);
+
+    --accent-1: #b8a08c;
+    --accent-2: color-mix(in srgb, #a18671, #ffffff 40%);
+    --accent-3: color-mix(in srgb, #a18671, #ffffff 40%);
+    --accent-4: color-mix(in srgb, #a18671, #ffffff 48%);
+    --accent-5: color-mix(in srgb, #a18671, #ffffff 56%);
+    --accent-new: var(--red-2);
+
+    --online: #c3a080;
+    --dnd: #c55c44;
+    --idle: #f5b483;
+    --streaming: #b56b70;
+    --offline: #a5856f;
+
+    --border-light: var(--hover);
+    --border: var(--active);
+    --border-hover: var(--active-2);
+    --button-border: color-mix(in srgb, #ead7c2 12%, transparent);
+
+    --red-1: #d57358;
+    --red-2: color-mix(in srgb, #c55c44, #ffffff 40%);
+    --red-3: color-mix(in srgb, #c55c44, #ffffff 40%);
+    --red-4: color-mix(in srgb, #c55c44, #ffffff 48%);
+    --red-5: color-mix(in srgb, #c55c44, #ffffff 56%);
+    --green-1: #d7b799;
+    --green-2: color-mix(in srgb, #c3a080, #ffffff 40%);
+    --green-3: color-mix(in srgb, #c3a080, #ffffff 40%);
+    --green-4: color-mix(in srgb, #c3a080, #ffffff 48%);
+    --green-5: color-mix(in srgb, #c3a080, #ffffff 56%);
+    --blue-1: #b8a08c;
+    --blue-2: color-mix(in srgb, #a18671, #ffffff 40%);
+    --blue-3: color-mix(in srgb, #a18671, #ffffff 40%);
+    --blue-4: color-mix(in srgb, #a18671, #ffffff 48%);
+    --blue-5: color-mix(in srgb, #a18671, #ffffff 56%);
+    --yellow-1: #fecca4;
+    --yellow-2: color-mix(in srgb, #f5b483, #ffffff 40%);
+    --yellow-3: color-mix(in srgb, #f5b483, #ffffff 40%);
+    --yellow-4: color-mix(in srgb, #f5b483, #ffffff 48%);
+    --yellow-5: color-mix(in srgb, #f5b483, #ffffff 56%);
+    --purple-1: #c17d80;
+    --purple-2: color-mix(in srgb, #b56b70, #ffffff 40%);
+    --purple-3: color-mix(in srgb, #b56b70, #ffffff 40%);
+    --purple-4: color-mix(in srgb, #b56b70, #ffffff 48%);
+    --purple-5: color-mix(in srgb, #b56b70, #ffffff 56%);
+}
