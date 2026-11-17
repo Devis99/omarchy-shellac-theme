@@ -31,7 +31,7 @@ on the ground; the art comes first.
 
 ## Wallpapers
 Six painted walls seen from above, one light, one story:
-1 the crossing, 2 the wait, 3 the deal, 4 the room, 5 the record, 6 coda (only his shadow is left).
+1 the crossing, 2 the wait, 3 the deal, 4 the room, 5 shellac (the 78 record, pressed from shellac), 6 coda (only his shadow is left).
 Generated with Codex using the room as the style reference, then matched to one mean
 lightness, chroma and hue across the set and upscaled to 4K. The crossing's shadow was
 rebuilt from a side silhouette of the same pose so it matches the man.

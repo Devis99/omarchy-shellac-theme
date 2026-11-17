@@ -14,5 +14,5 @@ lossless PNG.
 | 2-the-wait.png | He sits on a wooden chair by the road, playing; his shadow stretches right |
 | 3-the-deal.png | Midnight at the crossing; a far taller stranger's shadow falls toward him |
 | 4-the-room.png | San Antonio, 1936: he plays on the edge of an iron bed; window light on the floor |
-| 5-the-record.png | A portable gramophone and a blank-label 78 record on the wooden floor |
+| 5-shellac.png | A portable gramophone and a blank-label 78 record on the wooden floor |
 | 6-coda.png | First light at the empty crossing; only his shadow is left by the signpost |

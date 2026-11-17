@@ -37,7 +37,7 @@ All wallpapers are 3840x2160, painted with AI (Codex image generation) in a flat
   </tr>
   <tr>
     <td><img src="backgrounds/4-the-room.png" alt="The bluesman playing on the edge of an iron bed in a hotel room"><br><sub>4 The Room</sub></td>
-    <td><img src="backgrounds/5-the-record.png" alt="A portable gramophone and a 78 record on a wooden floor"><br><sub>5 The Record</sub></td>
+    <td><img src="backgrounds/5-shellac.png" alt="A portable gramophone and a shellac 78 record on a wooden floor"><br><sub>5 Shellac</sub></td>
     <td><img src="backgrounds/6-coda.png" alt="An empty crossing where only his shadow is left"><br><sub>6 Coda</sub></td>
   </tr>
 </table>
